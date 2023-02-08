@@ -53,8 +53,7 @@ whichAlgo = 0
 
 AlgoIndex = 0
 
-name = FONT_MEDIUM.render('Minhal Irfan', 1, WHITE)
-project = FONT_MEDIUM.render('Mohtada Jokhio', 1, WHITE)
+project = FONT_MEDIUM.render('Armaghan Ejaz', 1, WHITE)
 complexity = FONT_SMALL.render('Complexity', 1, WHITE)
 current = FONT_SMALL.render('Current Algo: ', 1, WHITE)
 on = FONT_MEDIUM.render('O(n^2)', 1, WHITE)
